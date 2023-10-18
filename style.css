@@ -1,0 +1,37 @@
+body {
+    background-image: url('img/pp.jpg');
+    background-size: cover;
+  
+    color: #333;
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(240, 240, 240);
+}
+#container {
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 20px;
+    background:#fff;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+header {
+    background: rgba(52, 152, 219, 0.8);
+    background:#fff;
+    height: 100;
+    width: 100%;
+    text-align: center;
+    line-height: 80px;
+    color:black;
+}
+
+#content {
+    float: left;
+    width: 96%;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
